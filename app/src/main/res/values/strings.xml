@@ -4,4 +4,6 @@
     <string name="enter_description_here">Enter Description Here</string>
     <string name="save_text">Save</string>
     <string name="show_text">Show</string>
+    <string name="update_text">Update</string>
+    <string name="delete_text">Delete</string>
 </resources>
